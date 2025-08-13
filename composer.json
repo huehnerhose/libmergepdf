@@ -25,11 +25,11 @@
         "setasign/fpdi": "^2"
     },
     "conflict": {
-        "setasign/fpdf": "*",
         "rafikhaceb/tcpdi": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^7|^8",
-        "smalot/pdfparser": "~0.13"
+        "smalot/pdfparser": "~0.13",
+        "phpspec/prophecy": "^1.22"
     }
 }
